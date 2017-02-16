@@ -12,7 +12,7 @@
 
 ### Mac
 - Fixed an issue with Core AAC audio encoder not starting at the correct start point
-- Fixed an crash when attempting to edit a queued job
+- Fixed a crash when attempting to edit a queued job
 
 ### Windows
 - Fixed an issue that could cause error -17 when encoding with Intel QuikcSync
